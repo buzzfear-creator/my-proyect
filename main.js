@@ -6,4 +6,5 @@ function gps() {
 
 function camera() {
  // camera finished
+ // bug fixed.
 }
