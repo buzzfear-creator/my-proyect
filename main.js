@@ -7,3 +7,8 @@ function gps() {
 function camera() {
  // camera finished
 }
+
+function login() {
+ // login finished
+ //cambios en login
+}
